@@ -1,0 +1,16 @@
+*.dex
+*.class
+bin/
+gen/
+local.properties
+.classpath
+.project
+.DS_Store
+*.sw*
+*.un~
+target
+.settings
+.idea/*
+macacatestsample.iml
+.travis.yml
+test-output/
